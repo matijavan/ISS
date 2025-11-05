@@ -1,0 +1,93 @@
+# ====================================
+# Unity generated files
+# ====================================
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+[Bb]in/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# ====================================
+# Asset Store and Package Cache
+# ====================================
+Assets/AssetStoreTools*
+Assets/Plugins/Editor/JetBrains*
+/Packages/com.unity.package-manager-ui/
+Packages/com.unity.collab-proxy/
+Packages/packages-lock.json
+
+# ====================================
+# OS generated files
+# ====================================
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ====================================
+# Visual Studio / Rider / JetBrains
+# ====================================
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# ====================================
+# Other IDE / Tooling files
+# ====================================
+.vscode/
+*.swp
+*.bak
+*.orig
+*.log
+*.vsconfig
+
+# ====================================
+# Auto-generated build artifacts
+# ====================================
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+*.ipa
+*.unitypackage
+
+# ====================================
+# Crash and profiler files
+# ====================================
+sysinfo.txt
+*.stacktrace
+*.dmp
+
+# ====================================
+# Addressables / StreamingAssets (optional)
+# ====================================
+# Uncomment these if you want to ignore built data
+# Assets/StreamingAssets/
+# Assets/AddressableAssetsData/AssetGroups/
+# Assets/AddressableAssetsData/Windows/
+
+# ====================================
+# Collaborate / Plastic SCM / Cloud
+# ====================================
+.collabignore
+.plastic/
+*.plastic
